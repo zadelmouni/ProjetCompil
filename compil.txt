@@ -1,0 +1,14 @@
+MAIN
+{
+x,t:NATUAL;
+i:FLOAT;
+m:STRING;
+kk:FLOAT;
+tab[11]:FLOAT;
+}
+CODE
+{
+
+}
+
+heoui@live.com
